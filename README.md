@@ -14,6 +14,12 @@ kiplymacho
  
 Instax is an tool to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
 
+sistem yang dibutuhkan 
+
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
+
+https://sfile.mobi/1Pk3b69xugs7
+
 ## Legal disclaimer:
 Usage of Instax for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
@@ -30,12 +36,6 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-sistem yang dibutuhkan 
-
-Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
-
-https://sfile.mobi/1Pk3b69xugs7
-
 git clone https:hasirar/instax.git
 cd instax
 chmod +x instax.sh
