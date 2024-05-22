@@ -30,6 +30,12 @@ Usage of Instax for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
+sistem yang dibutuhkan 
+
+Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error,Unduh Aplikasi Termux Nya Di Link Ini:
+
+https://sfile.mobi/1Pk3b69xugs7
+
 git clone https:hasirar/instax.git
 cd instax
 chmod +x instax.sh
